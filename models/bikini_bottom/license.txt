@@ -1,0 +1,11 @@
+Model Information:
+* title:	BFBBR - Bikini Bottom Sign
+* source:	https://sketchfab.com/3d-models/bfbbr-bikini-bottom-sign-0acbd2788641416ab6a2d7fa3559d732
+* author:	SMF Features Developed From Cheryl Hill (https://sketchfab.com/cherylhill28)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BFBBR - Bikini Bottom Sign" (https://sketchfab.com/3d-models/bfbbr-bikini-bottom-sign-0acbd2788641416ab6a2d7fa3559d732) by SMF Features Developed From Cheryl Hill (https://sketchfab.com/cherylhill28) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,223 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 10001,
+      "max": [
+        -17.10750961303711,
+        8.143501281738281,
+        2.4380664825439453
+      ],
+      "min": [
+        -23.921140670776367,
+        -0.40095949172973633,
+        -0.3342137038707733
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 120012,
+      "componentType": 5126,
+      "count": 10001,
+      "max": [
+        1.0,
+        0.9998672604560852,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 10001,
+      "max": [
+        0.9987373352050781,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 22116,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Lydechaser (https://sketchfab.com/Lydechaser)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/coral-a34004334b744ec88fa08a6b63101ea2",
+      "title": "Coral"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 88464,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 80008,
+      "byteOffset": 88464,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 240024,
+      "byteOffset": 168472,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 408496,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Coral__1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8391554351814146,
+          0.11193224672330049,
+          0.11193224672330049,
+          1.0
+        ],
+        "metallicFactor": 0.2505128702363343,
+        "roughnessFactor": 0.5613369495036543
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "coral_4_Coral__1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.08963640034198761,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.990327910083858e-17,
+        -0.08963640034198761,
+        0.0,
+        0.0,
+        0.08963640034198761,
+        1.990327910083858e-17,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "f85c4082caea42359a8e1459217a1398.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        4.676000595092773,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        4.676000595092773,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        4.676000595092773,
+        0.0,
+        94.89983367919922,
+        1.6192375421524048,
+        0.7211124897003174,
+        1.0
+      ],
+      "name": "coral_4"
+    },
+    {
+      "mesh": 0,
+      "name": "coral_4_Coral__1_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
