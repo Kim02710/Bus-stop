@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mr. Krab Money
+* source:	https://sketchfab.com/3d-models/mr-krab-money-33fab92081ef429d98a8e531f76c540c
+* author:	guntuy3 (https://sketchfab.com/guntuy3)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mr. Krab Money" (https://sketchfab.com/3d-models/mr-krab-money-33fab92081ef429d98a8e531f76c540c) by guntuy3 (https://sketchfab.com/guntuy3) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

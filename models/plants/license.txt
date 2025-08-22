@@ -1,0 +1,11 @@
+Model Information:
+* title:	TSCP - Decorations
+* source:	https://sketchfab.com/3d-models/tscp-decorations-f7984a8428a34ad9bfb24c77c3bd8c45
+* author:	SMF Features Developed From Cheryl Hill (https://sketchfab.com/cherylhill28)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TSCP - Decorations" (https://sketchfab.com/3d-models/tscp-decorations-f7984a8428a34ad9bfb24c77c3bd8c45) by SMF Features Developed From Cheryl Hill (https://sketchfab.com/cherylhill28) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
